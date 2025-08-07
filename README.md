@@ -1,16 +1,20 @@
-## Hi there 👋
+#  Hello, I'm Oratile G. Modubu
 
-<!--
-**Ora-2401/Ora-2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Diploma in Network Systems  
+- Passionate about cybersecurity, web development, and AI  
+- Portfolio: [View My Portfolio](https://your-portfolio-link.com)  
+- Reach me: oratile.modubu@icloud.com
 
-Here are some ideas to get you started:
+##  My Skills
+- Network Troubleshooting 
+- Web Design (HTML, TailwindCSS, JavaScript)
+- Cybersecurity Fundamentals 
+- Python & Java Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+- [Sentiment Analysis Dashboard](https://github.com/Ora-2401/Sentiment_Analysis_Dashboard)
+- [Creative Quiz Generator](https://github.com/Ora-2401/creative_quiz_generator)
+- [Khole Tech Chatbot](https://github.com/Ora-2401/Khole-Tech-Bot)
+
+> *“Always learning, always building.”*
+
