@@ -2,7 +2,7 @@
 
 - Diploma in Network Systems  
 - Passionate about cybersecurity, web development, and AI  
-- Portfolio: (https://ora-2401.onrender.com) 
+- Portfolio: (https://ora-2401.onrender.com)
 - Reach me: oratile.modubu@icloud.com
 
 ##  My Skills
