@@ -7,7 +7,7 @@
 
 ##  My Skills
 - Network Troubleshooting 
-- Web Design (HTML, TailwindCSS, JavaScript)
+- Web Design (HTML,CSS, JavaScript)
 - Cybersecurity Fundamentals 
 - Python & Java Development
 
